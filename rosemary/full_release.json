@@ -1,0 +1,19 @@
+{
+  "response": [
+    {
+      "datetime": 1773542764,
+      "filename": "CHerta_25H2-rosemary-20260315-022242.zip",
+      "url": "https://sourceforge.net/projects/gengkapak/files/ROM/rosemary/CHerta/16/CHerta_25H2-rosemary-20260315-022242.zip",
+      "md5": "b471470c7a1d9a14f4de87ddffdaa2f7",
+      "payload": [
+        {
+          "offset": 4141,
+            "FILE_HASH": "TaV7RqQ/NxtHFNOqQIelt4b+13N2vE0gsg1uDUb22HA=",
+            "FILE_SIZE": "2344925762",
+            "METADATA_HASH": "CQcRR1A47ZSExVZ/b/jOvftI9IgnehkudUyoEC1HA4Q=",
+            "METADATA_SIZE": "155690"
+        }
+      ]
+    }
+  ]
+}
