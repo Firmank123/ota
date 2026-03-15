@@ -1,0 +1,20 @@
+ROM
+- Fix NPE when long-pressing notifications (caused by March ASB)
+- Expose face-based auto-rotate settings
+- Hardcode Settings background color in launcher icon
+- Disable Storage Manager
+- Enabled app cloning
+- Drop one-shot auto brightness
+- (wip) add support for opendelta
+
+Device
+- Cleanup tree
+- Switch to userdebug build
+- Add Lunaris Dolby & Viper4FX
+- Add XiaomiParts
+- Switch to lineageos kernel (as per CHerta requirement)
+- And more
+
+Notes
+- Clean flash is mandatory
+- Full GApps ROM
